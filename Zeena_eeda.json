@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Zeena ida",
+  "wake_word": "Zina eeda",
   "author": "Evgeny Slavnov",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./zeena_ida.tflite",
+  "model": "./zina_eeda.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
