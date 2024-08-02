@@ -3,7 +3,7 @@
   "wake_word": "Zina eeda",
   "author": "Evgeny Slavnov",
   "website": "https://www.kevinahrendt.com/",
-  "model": "zina_eeda.tflite",
+  "model": "https://github.com/eslavnov/voice_playground/raw/main/Zeena_eeda.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
