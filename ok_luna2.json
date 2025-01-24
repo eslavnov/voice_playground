@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "OK Luna",
+  "wake_word": "OK Luna 2",
   "author": "Evgeny Slavnov",
   "website": "https://www.kevinahrendt.com/",
   "model": "ok_luna2.tflite",
